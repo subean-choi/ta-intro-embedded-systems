@@ -1,2 +1,15 @@
-# ta-intro-embedded-systems
-Public teaching assistant notes for introductory embedded systems
+# Introduction to Embedded Systems — Teaching Assistant
+
+임베디드시스템개론 TA 활동에서 다룬 개념을 공개용으로 정리한 저장소입니다.
+
+## Topics
+
+- 임베디드 시스템의 정의와 특성
+- 프로세서, 메모리, 입출력의 관계
+- 응용 소프트웨어와 시스템 소프트웨어
+- 하드웨어–소프트웨어 협업 구조
+- 실습 진행과 개념 설명
+
+## Privacy
+
+학생 정보, 개인 연락처, 활동 사진, 내부 운영 기록, 시험 문제와 답안은 공개하지 않습니다.
